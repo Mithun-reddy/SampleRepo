@@ -6,4 +6,9 @@ public class ProfileTest {
 	public void ProfilrTC06() {
 		System.out.println("Profile test cases added");
 	}
+	
+	@Test
+	public void ProfilrTC07() {
+		System.out.println("Profile test cases added");
+	}
 }
