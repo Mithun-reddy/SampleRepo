@@ -6,6 +6,10 @@ public class Test {
 		System.out.println();
 	}
 	
+	public static void test3() {
+		System.out.println("");
+	}
+	
 	public static void main(String[] args) {
 		System.out.println("testing . . . .");
 		System.out.println("Testing class");
