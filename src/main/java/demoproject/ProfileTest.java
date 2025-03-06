@@ -11,4 +11,9 @@ public class ProfileTest {
 	public void ProfilrTC07() {
 		System.out.println("Profile test cases added");
 	}
+	
+	@Test
+	public void ProfileTC08() {
+		System.out.println("Profile test cases added");
+	}
 }
