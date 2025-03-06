@@ -10,6 +10,13 @@ public class Test {
 		System.out.println("");
 	}
 	
+	public static void test4() {
+		System.out.println("");
+	}
+	
+	public static void test5() {
+		System.out.println("");
+	}
 	public static void main(String[] args) {
 		System.out.println("testing . . . .");
 		System.out.println("Testing class");
